@@ -10,16 +10,6 @@ const watches = [
   { name: "Urban Slim", price: "$179", desc: "Ultra-thin case, minimalist design." },
   { name: "Heritage Classic", price: "$299", desc: "Roman numeral dial, leather strap." },
   { name: "Titanium Edge", price: "$369", desc: "Lightweight titanium alloy case." },
-  { name: "Silver Moon", price: "$229", desc: "Moonphase complication, silver dial." },
-  { name: "Everyday Steel", price: "$159", desc: "Durable everyday wear watch." },
-  { name: "Chrono Sport X", price: "$309", desc: "Multi-function chronograph." },
-  { name: "Copper Craft", price: "$219", desc: "Copper-tone case, canvas strap." },
-  { name: "Aviator Series", price: "$339", desc: "Pilot-style dial, large face." },
-  { name: "Blue Horizon", price: "$249", desc: "Blue dial with steel bracelet." },
-  { name: "Grand Classic", price: "$379", desc: "Automatic movement, exhibition back." },
-  { name: "Casual Weekend", price: "$149", desc: "Lightweight, everyday casual style." },
-  { name: "Executive Gold", price: "$399", desc: "Full gold-tone, premium finish." },
-  { name: "Modern Mesh", price: "$269", desc: "Mesh strap with modern square case." }
 ];
 
 const watchGrid = document.getElementById('watchGrid');
