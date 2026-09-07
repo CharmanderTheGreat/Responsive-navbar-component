@@ -10,6 +10,7 @@ const watches = [
   { name: "Urban Slim", price: "$179", desc: "Ultra-thin case, minimalist design." },
   { name: "Heritage Classic", price: "$299", desc: "Roman numeral dial, leather strap." },
   { name: "Titanium Edge", price: "$369", desc: "Lightweight titanium alloy case." },
+
 ];
 
 const watchGrid = document.getElementById('watchGrid');
