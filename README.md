@@ -8,7 +8,7 @@ watch-store landing page ("Robiñol Timepieces").
 > demonstration purposes only. Product images are royalty-free stock
 > photos sourced from Unsplash.
 
-**[Live demo](#)**
+**[Live demo](https://charmanderthegreat.github.io/Responsive-navbar-component/)**
 
 ## What this demonstrates
 
